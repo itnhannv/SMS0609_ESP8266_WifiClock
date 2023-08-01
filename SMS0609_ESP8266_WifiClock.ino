@@ -7,8 +7,8 @@
 Ticker flip;
 #define CLKPIN 12
 #define DIPIN 13
-const char *ssid = "End Game";  // SSID
-const char *password = "1qaz2wsx";
+const char *ssid = " nnn";  // SSID
+const char *password = "nnn";
 
 String dayOfWeek, thang, ngay, gio, phut, giay, nam;
 int hour, minute, sec;
